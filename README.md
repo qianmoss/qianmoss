@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=800&pause=1500&width=435&lines=Qian+Moss;Cyber+Security+Expert+%26+Full-Stack+Developer)](https://git.io/typing-svg)
+## Qian Moss
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=800&pause=1500&color=9693FF&background=FFFFFF00&width=435&lines=Cyber+Security+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ### About me 💬
 Programmer for over 12 years. I spent many years learning, practicing and teaching. I started with front-end development for the first two years, and after that worked as a full-stack developer.
