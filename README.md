@@ -1,6 +1,6 @@
 ## Qian Moss
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=900&pause=2000&color=B9BCFF&background=FFFFFF00&multiline=true&width=435&lines=Founder+at+Cartian;Cyber+Security+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=900&pause=2000&color=B9BCFF&background=FFFFFF00&multiline=true&repeat=false&width=435&height=120&lines=Founder+at+Cartian;Cyber+Security+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
 
 
 ### About me 💬
