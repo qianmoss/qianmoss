@@ -9,6 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=900&pause=2000&color=B9BCFF&background=FFFFFF00&multiline=true&width=435&height=110&lines=Founder+at+Cartian;Cyber+Security+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
 
+# About Me
 From the moment I wrote my first line of code, technology has been more than a career. it has been a canvas for creation, a toolkit for problem-solving, and a shield for protection. With over 16 years of experience in software development and cybersecurity, I am the founder of Cartian, where innovation and security are not just priorities. they are the core of every project.
 
 Throughout my journey, I’ve architected complex systems, led cross-functional teams, and delivered solutions that are secure, user-centric, and scalable. I thrive at the intersection of creativity and technology, constantly exploring ways to make businesses and lives smarter, safer, and more efficient.
