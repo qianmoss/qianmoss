@@ -5,9 +5,7 @@
 <a href="https://app.daily.dev/qianmoss">
     <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
 </a>
-<a href="https://app.daily.dev/qianmoss">
-    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
-</a>
+# Social
 <!-- markdownlint-enable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=900&pause=2000&color=B9BCFF&background=FFFFFF00&multiline=true&width=435&height=110&lines=Founder+at+Cartian;Cyber+Security+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
